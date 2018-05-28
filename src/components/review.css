@@ -1,0 +1,16 @@
+.reviewStyle{
+    padding: 10px 50px;
+}
+.reviewAuthor{
+    font-size: 16px;
+    font-weight: 600;
+}
+.reviewContent{
+text-indent: 30px;
+text-align: justify;
+}
+.test{
+    border: 1px solid #e3e3e3;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 0px 20px;
+}

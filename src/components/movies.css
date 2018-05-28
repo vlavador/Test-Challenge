@@ -1,0 +1,38 @@
+.movie{
+
+	width: 100%;
+	display: inline-block;
+margin: 10px 0px;   
+
+}
+.movie img{
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    height: 278px;
+  cursor: pointer;}
+
+.pads{
+
+    padding: 15px;
+
+}
+.grid-4{
+	text-align:center;
+	width: 32%;
+	display:inline-block;
+}
+.grid-8{
+    width: 650px;
+    display: inline-block;
+    /* height: 100px; */
+    position: absolute;
+}
+.viewStyle{
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 10px;    
+    cursor: pointer;
+}
